@@ -1,0 +1,18 @@
+Hidden units: 10 Batch size: 800 Learning rate: 0.00001 Error: 10327.367515361395
+Hidden units: 10 Batch size: 800 Learning rate: 0.00100 Error: 6210.754735567611
+Hidden units: 10 Batch size: 800 Learning rate: 0.10000 Error: 395502.169128769427
+
+Hidden units: 10 Batch size: 16000 Learning rate: 0.00001 Error: 10157.263586369218
+Hidden units: 10 Batch size: 16000 Learning rate: 0.00100 Error: 32533.972957631267
+Hidden units: 10 Batch size: 16000 Learning rate: 0.10000 Error: 462704.521300466906
+
+
+Hidden units: 15 Batch size: 800 Learning rate: 0.00001 Error: 8967.963106716890
+Hidden units: 15 Batch size: 800 Learning rate: 0.00100 Error: 4731.764106062092
+Hidden units: 15 Batch size: 800 Learning rate: 0.10000 Error: 30372.015397391740
+
+Hidden units: 15 Batch size: 16000 Learning rate: 0.00001 Error: 9045.351157034374
+Hidden units: 15 Batch size: 16000 Learning rate: 0.00100 Error: 20601.411816795626
+Hidden units: 15 Batch size: 16000 Learning rate: 0.10000 Error: 472348.277740106802
+
+
